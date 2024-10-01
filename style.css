@@ -212,7 +212,7 @@ section{
 }
 
 .text-box p{
-    font-size: 12px;
+    font-size: 1em;
     line-height: 1.9;
     padding-bottom: 1rem;
     opacity: .7;
